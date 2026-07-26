@@ -1,5 +1,7 @@
 ## Привет всем! 👋
 
+![Мой баннер](images/00 Virtualbox_logo.png)
+
 <!--
 **stimul25/stimul25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
