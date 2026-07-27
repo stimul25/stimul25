@@ -18,7 +18,7 @@
 </details>
 
 <details>
-<summary>Мониторинг</summary>
+<summary>📊 Мониторинг</summary>
   
 [Cистема мониторинга Zabbix. Часть 1](https://github.com/stimul25/zabbix_1.git)
 
