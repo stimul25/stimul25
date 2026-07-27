@@ -7,6 +7,7 @@
 [Дипломный проект](https://github.com/stimul25/sys43-diplom.git)
 
 <details>
+  
 <summary>Введение в DevOps</summary>
 
 [GIT](https://github.com/stimul25/8-03-hw.git)
@@ -18,6 +19,7 @@
 </details>
 
 <details>
+
 <summary>Мониторинг</summary>
   
 [Cистема мониторинга Zabbix. Часть 1](https://github.com/stimul25/zabbix_1.git)
@@ -27,6 +29,7 @@
 <details>
 
 <details>
+
 <summary>Отказоустойчивость</summary>
 
 [Кластеризация и балансировка нагрузки](https://github.com/stimul25/balans-1.git)
@@ -38,6 +41,7 @@
 <details>
 
 <details>
+  
 <summary>Системы хранения и передачи данных</summary>
 
 [Базы данных, их типы](https://github.com/stimul25/databases_types.git)
@@ -49,6 +53,7 @@
 <details>
 
 <details>
+  
 <summary>Реляционные базы данных и администрирование баз данных</summary>
 
 [Базы данных](https://github.com/stimul25/sql_databases.git)
@@ -70,6 +75,7 @@
 <details>
 
 <details>
+  
 <summary>Информационная безопасность</summary>
 
 [Уязвимости и атаки на информационные системы](https://github.com/stimul25/attacks_on_IS.git)
