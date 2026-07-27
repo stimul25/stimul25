@@ -81,6 +81,8 @@
 
 </details>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 [![Твои GitHub статистика](https://github-readme-stats.vercel.app/api?username=stimul25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Мой баннер](https://github.com/stimul25/stimul25/blob/e4b8dc7f56554daeaf103b3e0a73bb2d0dc10ece/images/00%20Virtualbox_logo.png "VirtualBox")
