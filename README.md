@@ -81,7 +81,7 @@
 
 </details>
 
-## Технологии, изученные в процессе обучения.
+## Изученные технологии и полученные навыки в процессе обучения.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white "Bash")
