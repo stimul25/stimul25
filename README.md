@@ -115,8 +115,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
 
+## 📈 Статистика
 
 ![Альтернативный текст](https://github-stats-extended.vercel.app/api?username=stimul25)
+![Альтернативный текст](https://github-stats-extended.vercel.app/api/top-langs/?username=stimul25)
 
 ![Мой баннер](https://github.com/stimul25/stimul25/blob/e4b8dc7f56554daeaf103b3e0a73bb2d0dc10ece/images/00%20Virtualbox_logo.png "VirtualBox")
 
