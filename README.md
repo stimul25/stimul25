@@ -120,6 +120,8 @@
 ![Альтернативный текст](https://github-stats-extended.vercel.app/api?username=stimul25)
 ![Альтернативный текст](https://github-stats-extended.vercel.app/api/top-langs/?username=stimul25)
 
+![contributions](https://contribkit.app/user/stimul25.svg)
+
 ![Мой баннер](https://github.com/stimul25/stimul25/blob/e4b8dc7f56554daeaf103b3e0a73bb2d0dc10ece/images/00%20Virtualbox_logo.png "VirtualBox")
 
 
