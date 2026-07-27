@@ -81,8 +81,17 @@
 
 </details>
 
+## Технологии, изученные в процессе обучения.
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white "Bash")
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white "VirtualBox")
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white "Debian")
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "Ubuntu")
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white "TCP/IP")
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white "Wireshark")
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white "Cisco")
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white "Yandex Cloud")
 
 
 ![Мой баннер](https://github.com/stimul25/stimul25/blob/e4b8dc7f56554daeaf103b3e0a73bb2d0dc10ece/images/00%20Virtualbox_logo.png "VirtualBox")
