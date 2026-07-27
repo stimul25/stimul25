@@ -8,7 +8,9 @@
 
 <details>
 
-<summary>Дипломный проект</summary>
+<summary>Введение в DevOps</summary>
+[GIT](https://github.com/stimul25/8-03-hw.git)
+[Jenkins, Nexus](https://github.com/stimul25/homework-DevOps.-I-D..git)
 
 </details>
 
