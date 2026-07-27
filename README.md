@@ -7,7 +7,6 @@
 [Дипломный проект](https://github.com/stimul25/sys43-diplom.git)
 
 <details>
-
 <summary>Введение в DevOps</summary>
 
 [GIT](https://github.com/stimul25/8-03-hw.git)
@@ -15,8 +14,11 @@
 [Jenkins, Nexus](https://github.com/stimul25/homework-DevOps.-I-D..git)
 
 [GitLab](https://github.com/stimul25/gitlab-hw.git)
-
 </details>
+
+<details>
+  
+<summary>Введение в DevOps</summary>
 
 ![Мой баннер](https://github.com/stimul25/stimul25/blob/e4b8dc7f56554daeaf103b3e0a73bb2d0dc10ece/images/00%20Virtualbox_logo.png "VirtualBox")
 
