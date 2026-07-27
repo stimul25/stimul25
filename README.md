@@ -14,6 +14,7 @@
 
 [Jenkins, Nexus](https://github.com/stimul25/homework-DevOps.-I-D..git)
 
+[GitLab](https://github.com/stimul25/gitlab-hw.git)
 
 </details>
 
